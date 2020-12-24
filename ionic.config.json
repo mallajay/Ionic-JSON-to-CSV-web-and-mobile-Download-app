@@ -1,5 +1,7 @@
 {
   "name": "download_csv_mobile_and_web",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
